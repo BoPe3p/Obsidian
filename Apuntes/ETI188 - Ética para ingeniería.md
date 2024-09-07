@@ -1,3 +1,8 @@
+---
+tags:
+  - PUC
+  - APUNTES
+---
 Tags: [[PUC]] , [[Apuntes]]
 # <mark style="background: #FF5582A6;">Apuntes I1</mark>
 
