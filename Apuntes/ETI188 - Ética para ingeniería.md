@@ -26,6 +26,9 @@ Imperativo categórico: Debes hacer Y (Y listo pa)
 > "Obra solo según una máxima tal que puedas querer al mismo tiempo que se torne en una ley universal"
 >Kant
 
+**Podcast Ética del cuidado**
+
+Tercer teoría normativa (Las otras 2: deontológicas, utilitaristas). Surge en torno a la discusión de la temática del feminismo. Idea: El hombre se desenvuelve en lo público, la mujer no tiene capacidades para participar en el mundo cívico.
 
 # Apuntes I2
 
