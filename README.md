@@ -9,4 +9,4 @@ La idea es ir añadiendo más apuntes y también subir archivos .tex o .pdf para
 
 - ETI118 - Abel Wajerman
 - Jesús Distintas Comprensiones - Felipe Pardo
-- FIS 1533 - Rodrigo Lopez WIP
+- FIS1533 - Rodrigo Lopez WIP

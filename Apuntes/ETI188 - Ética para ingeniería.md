@@ -6,6 +6,7 @@ tags:
 Tags: [[PUC]] , [[Apuntes]]
 # <mark style="background: #FF5582A6;">Apuntes I1</mark>
 
+### Fleeting notes:
 Premisas: Razones a favor  en contra de lo que queremos defender/contradecir.
 
 Razonamientos morales tienen
@@ -21,6 +22,50 @@ Superogatorio vs obligatorio.
 Egoísmo ético -> Empuja el equilibrio entre los intereses propios y los ajenos a favor de los propios.
 Argumento 1: El altruismo es contraproducente, cada uno está familiarizado con sus intereses, si nos preocupamos por intereses ajenos que no conocemos, hacemos más mal que bien.
 Argumento 2: Valor del individuo, Altruismo -> Vida del individuo debe estar dispuesta a ser sacrficada. Egoismo -> La vida es lo único que tiene el individuo, por lo que tiene suprema importancia.
+
+### Relativismo y Subjetivismo
+
+#### Relativismo: 
+Doctrina que afirma la no existencia de una verdad absoluta.
+
+**Relativismo cultural:** Diferentes sociedades tienen diferentes códigos morales. Tus propios códigos morales no son superiores a los del resto, no se pueden utilizar para juzgar éticamente la conducta de otras culturas.
+<mark style="background: #ABF7F7A6;">Problemas</mark>
+- No podríamos decir que otras costumbres son inferiores (esclavitud, racismo, antisemitismo...)
+- No se pueden criticar los códigos de la propia sociedad.
+- No se pueden criticar códigos pasados.
+
+Criterio del bienestar: El bienestar es transversal para cualquier sociedad, por eso es que es casi una regla "no matar" o "decir la verdad".
+
+#### Subjetivismo 
+La individualidad psíquica y material del sujeto es lo que define la verdad.
+
+**Subjetivismo simple:** Cuando una persona dice que algo es moralmente bueno o malo, esto significa que la aprueba o la desaprueba, y nada más. -> Desacuerdos.
+**Emotivismo:** Diferencia entre informar y expresar una actitud: "No debes hacer eso" vs "¡No lo hagassss!" -> También genera desacuerdos, no somos infalibles respecto de lo que no tiene valor de verdad.
+
+### Egoismo 
+
+#### Egoismo Psicológico
+Toda acción humana está motivada por el interés propio. Podemos creer que somos nobles pero es todo MENTIRA! La conducta altruista está definida por motivos como:
+
+- Deseo de llevar una vida significativa
+- Deseo de reconocimiento
+- Satisfacción personal
+- Esperanza de una recompensa en el cielo/más allá.
+
+<mark style="background: #ADCCFFA6;">Argumento 1</mark>: Siempre hacemos lo que más queremos hacer, ya sea porque somos egoistas o porque si hacemos algo a desgano es para alcanzar un fin deseado.
+<mark style="background: #FF5582A6;">Objeciones</mark>: Hay cosas que hacemos no porque queremos ni porque son fines, sentimos que tenemos que hacerlas (DEBER). El hecho de que sigas tus deseos no significa que estés actuando egoistamente, el objeto de tu deseo determina si es egoista o no (Si no te preocupas por los demás eres egoista).
+
+<mark style="background: #ADCCFFA6;">Argumento 2</mark>: Hacemos lo que nos hace sentir bien.
+<mark style="background: #FF5582A6;">Objeciones</mark>: Deseamos los objetos de nuestro deseo, no la satisfacción que nos producen los objetos. Al ayudar a otros, no lo hacemos por el sentimiento de satisfacción, sino lo hacemos para ayudar, lo otro es un derivado.
+
+#### Egoismo Ético
+Cada quien **debe** buscar su propio interés. (Distinto de): Promover intereses propios así como los de otros, evitar acciones que ayuden a otros, hacer siempre aquello que quiere, o hacer lo que le de placer a corto plazo.
+
+<mark style="background: #ADCCFFA6;">Argumento 1</mark>: El altruismo es contraproducente. Cada uno está familiarizado con sus deseos, pero no sabe nada de lo de los demás. Estar pendiente de los demás es una intromisión ofensiva a la intimidad de las personas. Si cada quien vela por sí mismo, es más probable que cada quien esté mejor.
+<mark style="background: #FF5582A6;">Objeción</mark>: Aun si aceptamos esto estamos haciendo lo que creemos que ayudará a todos. Seríamos altruistas con una opinion de lo que promueve el bienestar general.
+
+<mark style="background: #ADCCFFA6;">Argumento 2</mark>: Si el individuo tiene valor moral, la vida es todo lo que tiene y es de suprema importancia. El altruismo significa sacrificar la propia vida por el bien ajeno, esto no toma en cuenta el valor individual. El egoísmo ético sí lo hace.
+<mark style="background: #FF5582A6;">Objeción</mark>: Falso dilema. Sentido común -> Intereses propios y ajenos importan.
 
 ### Ética deontológica
 
@@ -47,7 +92,7 @@ Estudiaba la capacidad de discernimiento ético, empieza en edades tempranas y a
 Kohlberg se dió cuenta de que las respuestas variaban dentro de los niños según el género (aún teniendo la misma edad).
 	Ej: <mark style="background: #ADCCFFA6;">Dilema de Heinz</mark> - Robar o perder un ser querido
 	<mark style="background: #ABF7F7A6;">Respuesta de Jake</mark>: Se refiere a principios universales (La vida vale más que el dinero). Heinz roba el medicamento, el médico pierde dinero, pero si Heinz no roba, Heinz pierde la vida de un ser querido. = Heinz debería robar.
-	<mark style="background: #ABF7F7A6;">Respuesta de Amy</mark>: Prioriza las relaciones personales (Heinz y el farmacéutico deberían llegar a otro tipo de acuerdo). SI Heinz roba, se iría preso y su esposa se moriría igual, Heinz debería darle toda la info al farmacéutico.
+	<mark style="background: #ABF7F7A6;">Respuesta de Amy</mark>: Prioriza las relaciones personales (Heinz y el farmacéutico deberían llegar a otro tipo de acuerdo). Si Heinz roba, se iría preso y su esposa se moriría igual, Heinz debería darle toda la info al farmacéutico.
 
 Jake está en una etapa superior a Amy
 

@@ -106,3 +106,35 @@ Textos conciliares
 Dios y Jesús de Nazareth toman un carácter específico, Dios es trino y Jesús es el mesías, el salvador, hijo de Dios, etesech.
 
 ---
+
+# Apuntes I2
+
+Bultmann: De Jesús de Nazareth no sabemos nada con precisión histórica.
+
+Premisas: 
+- Discontinuidad: Discontinuidad entre Jesús e iglesia primitiva, apóstoles no son el nexo. 
+- Origen de los relatos: los relatos presentes en los evangelios sobre Jesús de Nazareth se originan en las comunidades de la iglesia primitiva y no directamente de Jesús de Nazareth o los apóstoles. Narrativas -> Obras literarias.
+
+Ejercicio:
+1. La energía nuclear es la mejor apuesta de futuro para nuestro país porque *es una energía limpia* y las *energías renovables todavía no son rentables*.
+Premisas: *Italizadas*. Pueden hacer variar la hipótesis de afirmación a negación. 
+
+Clase del 30 de Sept - Joseph Ratzinger (Benedicto XVI).
+Su hipótesis: **La persona y el mensaje de Jesús de Nazareth son conocidos con precisión** histórica desde los evangelios de Marcos, Mateo, Lucas y Juan. 
+
+<mark style="background: #BBFABBA6;">Premisa 1</mark>: **Jesús de Nazareth es la revelación de Dios padre**. Esta premisa nace de la cuarta fuente de conocimiento, la revelación. Los evangelios son los textos más antiguos sobre Jesús.
+
+Para Bultmann no llegamos al Jesús histórico con precisión. No así para Ratzinger, ya que tenemos el documento más antiguo de Jesús (Evangelios). 
+
+<mark style="background: #BBFABBA6;">Premisa 2</mark>: (Marcos 3:14) Jesús eligió a 12 para que estén con él.
+Esto significa que lo conocieron, vivieron con él. Conclusión: Esa gente guardó en su memoria colectiva e individual palabras, dichos, gestos de Jesús, que después serán comunicados. Fundamento de la formación de evangelios. Primera finalidad = Estar con él.
+
+<mark style="background: #BBFABBA6;">Premisa 3</mark>: (Marcos 3:14). Segunda finalidad = Enviarlos a predicar la buena noticia.
+
+<mark style="background: #BBFABBA6;">Premisa 4</mark>: Cuando mueren los apóstoles, los obispos que los suceden pueden supervisar la predicación apostólica. 
+
+<mark style="background: #BBFABBA6;">Premisa 5</mark>: Los evangelios canónicos: Marcos, Mateo, Lucas y Juan, recepcionan con precisión lo transmitido por los apóstoles, sus sucesores, y lo escriben.
+
+---
+
+
