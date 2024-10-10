@@ -109,7 +109,8 @@ Dios y Jesús de Nazareth toman un carácter específico, Dios es trino y Jesús
 
 # Apuntes I2
 
-Bultmann: De Jesús de Nazareth no sabemos nada con precisión histórica.
+### Bultmann: 
+De Jesús de Nazareth no sabemos nada con precisión histórica.
 
 Premisas: 
 - Discontinuidad: Discontinuidad entre Jesús e iglesia primitiva, apóstoles no son el nexo. 
@@ -119,7 +120,8 @@ Ejercicio:
 1. La energía nuclear es la mejor apuesta de futuro para nuestro país porque *es una energía limpia* y las *energías renovables todavía no son rentables*.
 Premisas: *Italizadas*. Pueden hacer variar la hipótesis de afirmación a negación. 
 
-Clase del 30 de Sept - Joseph Ratzinger (Benedicto XVI).
+Clase del 30 de Sept -
+### Joseph Ratzinger (Benedicto XVI):
 Su hipótesis: **La persona y el mensaje de Jesús de Nazareth son conocidos con precisión** histórica desde los evangelios de Marcos, Mateo, Lucas y Juan. 
 
 <mark style="background: #BBFABBA6;">Premisa 1</mark>: **Jesús de Nazareth es la revelación de Dios padre**. Esta premisa nace de la cuarta fuente de conocimiento, la revelación. Los evangelios son los textos más antiguos sobre Jesús.
@@ -134,6 +136,24 @@ Esto significa que lo conocieron, vivieron con él. Conclusión: Esa gente guard
 <mark style="background: #BBFABBA6;">Premisa 4</mark>: Cuando mueren los apóstoles, los obispos que los suceden pueden supervisar la predicación apostólica. 
 
 <mark style="background: #BBFABBA6;">Premisa 5</mark>: Los evangelios canónicos: Marcos, Mateo, Lucas y Juan, recepcionan con precisión lo transmitido por los apóstoles, sus sucesores, y lo escriben.
+
+Clase 02 de oct
+
+El ser humano se compone de 3 elementos segun ratzinger: Alma, espítiru y cuerpo.
+Alma: Abierta por intuiciones al mundo real no visible a los ojos. Mundo religioso -> Dios, ángeles. Entra en sintonía con el alma cuando se desarrolla lo religioso.
+Espíritu: Razón empírica, no se relaciona con intuición con los objetos.
+Cuerpo: Soma, es como estamos en contacto con los objetos.
+Bultmann: No cree en la existencia del alma, cree en la razón empírica que se ajusta a cosas dadas por la experiencia. 
+
+Leer en SIBUC: "¿Quien dicen los hombres que soy yo? apartado de Judeo Cristianismo Heterodoxo"
+
+Jesús de Nazareth es Dios, Jesús de Nazareth es no Dios. Son diferentes, acá no se niega el predicado de una definición ya que la definición de Dios no es Jesús de Nazareth.
+
+### Bertrand Russel:
+Enfoque riguroso basado en el análisis preciso de los enunciados. "Atomismo lógico".
+
+Veamos un enunciado: "Jesús de Nazareth es sabio"
+Russel no utiliza la biblia directamente para estudiar el enunciado. Uno puede negar la hipótesis
 
 ---
 
