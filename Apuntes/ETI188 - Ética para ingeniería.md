@@ -107,9 +107,35 @@ Noción de cuidado mismo: Vínculo de cuidado -> Conjunto de capacidades, tiene 
 3. Ser competentes en el abordaje de las necesidades del otro: Intervenir positivamente en la otra persona.
 4. Responsiveness:  Ser sensible al contexto, evaluar responsabilidades y respuestas de acuerdo a circunstancias y no en términos idealizados
 El cuidado de los otros no es una idea abstracta, sino que se da en una relación/vínculo real. <mark style="background: #D2B3FFA6;">Importante</mark>: No podemos cuidar a personas con las que no tenemos un vínculo.
-# Apuntes I2
+# <mark style="background: #FF5582A6;">Apuntes I2</mark>
 
-Texto
+Clase Brecha responsabilidad IA - Gabriela Arriagada
+¿Quién es responsable? Muy difícil de responder, hay muchos actores: Desarrolladores, gobierno, el mismo sistema...
+
+Responsabilidad requiere: Transparencia, explicabilidad, necesario para un trato justo. Todo se logra con gobernanza.
+**Brechas de responsabilidad**:
+"Imposibilidad de atribuir responsabilidad, moral, legal o ética a individuos o entidades cuando las decisiones y acciones son tomadas por sistemas de inteligencia artificial."
+
+1. <mark style="background: #ADCCFFA6;">Culpability gap</mark>: Cuando se ha cometido una falta o error, no es posible atribuir culpabilidad o culpa moral a ninguna persona o entidad de manera justa. Esto ocurre pq algunos algoritmos son complejos, los humanos no tienen control/conocimiento de las denominadas 'cajas negras'.  Ej: Vehículos autónomos.
+- Negativa retrospectiva: Quien debería ser culpado por resultados negativos.
+- Positiva retrospectiva: Quien debería ser galardonado por resultados positivos.
+- Negativa prospectiva: Ausencia de responsabilidad para prevenir accidentes futuros.
+- Positiva prospectiva: Falta de responsabilidad para lograr resultados beneficiosos futuros.
+
+2. <mark style="background: #ADCCFFA6;">Moral accountability gap</mark>: Obligación de una persona de explicar y justificar sus acciones y decisiones. Los usuarios pueden depender de la IA sin cuestionarla. Ej: médico que diagnostica con IA no puede explicar porqué se equivoca si da un mal diagnóstico.
+
+3. <mark style="background: #ADCCFFA6;">Public accountability gap</mark>: Obligación de actores gubernamentales o entidades públicas de justificar sus decisiones ante el público. Muchas veces se subcontratan empresas privadas que no tienen que rendir cuentas públicas, por eso los ciudadanos no tienen forma de comprender cómo un sistema de IA ha llegado a una decisión.
+
+4. <mark style="background: #ADCCFFA6;">Active responsibility gap</mark>: Obligación de prevenir daños y promover el bienestar general. Aparece cuando diseñadores, ingenieros, usuarios no asumen responsabilidad sobre las consecuencias de los sistemas que usan. Pasa casi siempre por falta de información.
+
+<mark style="background: #BBFABBA6;">Respuesta</mark>: Solucionismo técnico
+
+Problemas sociales, éticos y políticos complejos pueden ser resueltos de manera efectiva solo a través de soluciones técnicas o tecnológicas, ignorando dimensiones más amplias y humanas.
+Límites: Simplificación del problema (las trata como problemas técnicos), ignorar causas subyacentes (Deja de lado aspecto humano). Riesgos: Perpetuar la irresponsabilidad y falta de responsabilidad activa, desplazar el control y la agencia.
+
+->Diseño sociotécnico de IA -> Responsabilidad distribuída -> Control humano.
+
+Responsabilidad: Depende del humano que diseña, usa, implementa y retroalimenta a la IA. 
 
 ---
 

@@ -139,7 +139,7 @@ Esto significa que lo conocieron, vivieron con él. Conclusión: Esa gente guard
 
 Clase 02 de oct
 
-El ser humano se compone de 3 elementos segun ratzinger: Alma, espítiru y cuerpo.
+El ser humano se compone de 3 elementos según Ratzinger: Alma, espítiru y cuerpo.
 Alma: Abierta por intuiciones al mundo real no visible a los ojos. Mundo religioso -> Dios, ángeles. Entra en sintonía con el alma cuando se desarrolla lo religioso.
 Espíritu: Razón empírica, no se relaciona con intuición con los objetos.
 Cuerpo: Soma, es como estamos en contacto con los objetos.
@@ -156,5 +156,66 @@ Veamos un enunciado: "Jesús de Nazareth es sabio"
 Russel no utiliza la biblia directamente para estudiar el enunciado. Uno puede negar la hipótesis
 
 ---
+## Ayudantía
 
+Evangelios canónicos: Mateo, Marcos, Lucas y Juan
+
+Autores:
+- No conocemos con precisión histórica la vida de J.N en base a los evangelios: Rudolf Bultmann, Bertrand Russel, Teódoto el Curtidor.
+- Si la conocemos: Bernard Sesboué, Joseph Ratzinger, Ireneo de Lyon.
+
+<mark style="background: #FF5582A6;">Bultmann</mark>
+Cristiano que rechaza el evangelio.
+Los evangelios canónicos son narraciones mitológicas. Evangelios son piezas literarias-teológicas redactadas por escritores muy preparados en la expresión escrita. Se basan en mitos premodernos para hacer relatos mitológicos:
+- Concepción virginal
+- Resurrección
+- Milagros
+
+**Desmitologizar**: Quitar conceptos postmodernos como los ángeles, demonios y milagros, rescatando el *kerigma* (mensaje, moraleja). Bultmann -> el valor histórico de la vida de J.N no es importante, lo es su mensaje.
+
+<mark style="background: #FF5582A6;">Russel</mark>
+**Atomismo lógico**: Se puede desprender todo prejuicio y preconcepto de una oración, dejando solo el mensaje. *Átomos lógicos*: sujeto, verbo y predicado. El resto es subjetivo.
+Los textos más antiguos que son los evangelios canónicos nos hacen construir la historia desde la mirada creyente de la iglesia. Además por las traducciones, copias, años, los textos y las palabras no son las originales.
+
+¿Jesús de Nazareth es sabio?
+Premisa 1: Los sabios de la antiguedad son misericordiosos
+Premisa 2: Jesús de Nazareth enseña sobre el castigo divino.
+Conclusión: Jesus de Nazareth es no-sabio pq es no-misericordioso.
+
+<mark style="background: #FF5582A6;">Teódoto el curtidor</mark>
+Fundador de un colectivo judeocristiano. Las enseñanzas de J.N fueron malentendidos en los evangelios.
+Premisa 1: Idea equivocada de el hijo de Dios: De ningún libro del Antiguo Testamento se desprende que el Padre tenga un hijo Dios
+Premisa 2: J.N fue un hombre, nunca enseñó que la salvación del hombre es dada por Dios Padre mediante él.
+
+Toma como referencia un evangelio no canónico: **Evangelio apócrifo de Hebreos**, donde J.N cumple la Ley de Moisés y es la guía de los hombres a la salvación. Texto apócrifo: Data de la época de la biblia o está escrito en el formato bíblico, pero que la iglesia no considera canónico.
+
+<mark style="background: #BBFABBA6;">Sesboué</mark>
+Razón empírica para que J.N no aparezca como un suceso sino como un sujeto.
+1. Atestiguación múltiple: Si un personaje aparece en 2 o más evangelios canónicos, debe ser fidedigno.
+2. Del rechazo y condena a muerte: Pasajes de la vida que contribuyen en la crucifixión y muerte de J.N deben de ser considerados históricos (PQ?: El hecho de que Jesús haya sido crucificado era muy común en Roma, varios apóstoles fueron crucificados, no se duda de la crucifixión cómo un hecho.)
+3. Congruencia: Los pasajes congruentes con la imagen que se mantiene durante los siglos son verídicos
+4. Discontinuidad: Palabras que dice Jesucristo en evangelios canónicos que no se encontraban en la cultura religiosa judeocristiana, deben ser pruebas de su historicidad: Uso de la palabra **Abba** para referirse a YHVH.
+
+<mark style="background: #BBFABBA6;">Ratzinger</mark>
+Los evangelios canónicos al ser las fuentes más antiguas, son las más precisas.
+Premisa 1: J.N es la revelación de Dios padre.
+Premisa 2 y 3: J.N escoge a los 12 para que estuvieran con él y que transmitan la buena noticia.
+Premisa 4: Cuando mueren los apóstoles, los obispos deben sucederles en el ministerio para supervisar la predicación apostólica con precisión.
+Premisa 5: Los E.C recepcionan con precisión lo transmitido por los apóstoles, sucesores y lo escriben.
+Idea del verbo: 'Logos' ciencia, discurso. Verbo encarnado: Pensamiento divino vuelto carne == J.N
+
+<mark style="background: #BBFABBA6;">Ireneo de Lyon</mark>
+**Historia de la Salvación**
+Dios padre tiene un plan desde siempre: salvar al hombre, llevar el hombre hacia él.
+
+Límites
+1. Supuesto: Dios piensa y quiere un plan en favor del hombre.
+2. Si se acepta lo anterior, entonces se acepta tb: Dios existe y crea al hombre, lo piensa y lo ama, es decir, Dios personalizado y no un enta abstracto e impreciso.
+3. Supuesto: Existe una aceptación del plan divino por parte de la fe
+
+Refutaciones
+1. Agnósticos: Dios existe, pero corresponde a un ser lejano al hombre, no sabemos nada con precisión acerca de un supuesto plan divino (Russel).
+2. Fenomenólogos: El hombre es una existencia arrojada al mundo sin un plan previo, dicha existencia se autoconstruye en base a sus propias elecciones. (Jean-Paul Sartre)
+
+**Resumen**: Dios padre tiene un plan que consiste en salvar al hombre, lo que implica llevarlo hacia él. Esto lo logra mediante la encarnación del Verbo, el Verbo se hace hombre para que el hombre pueda acceder a Dios y sus bienes eternos. 
 
