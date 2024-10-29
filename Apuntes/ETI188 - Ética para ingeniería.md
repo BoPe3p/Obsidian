@@ -109,7 +109,7 @@ Noción de cuidado mismo: Vínculo de cuidado -> Conjunto de capacidades, tiene 
 El cuidado de los otros no es una idea abstracta, sino que se da en una relación/vínculo real. <mark style="background: #D2B3FFA6;">Importante</mark>: No podemos cuidar a personas con las que no tenemos un vínculo.
 # <mark style="background: #FF5582A6;">Apuntes I2</mark>
 
-Clase Brecha responsabilidad IA - Gabriela Arriagada
+### Brecha responsabilidad IA
 ¿Quién es responsable? Muy difícil de responder, hay muchos actores: Desarrolladores, gobierno, el mismo sistema...
 
 Responsabilidad requiere: Transparencia, explicabilidad, necesario para un trato justo. Todo se logra con gobernanza.
@@ -136,6 +136,70 @@ Límites: Simplificación del problema (las trata como problemas técnicos), ign
 ->Diseño sociotécnico de IA -> Responsabilidad distribuída -> Control humano.
 
 Responsabilidad: Depende del humano que diseña, usa, implementa y retroalimenta a la IA. 
+
+### Ética de la virtud
+
+Una virtud es un rasgo del carácter, algo que **define un modo de ser**. Son cualidades **positivas** a las que nos referimos al decidir si vamos a buscar la compañía de alguien o la vamos a evitar, cuando la **evaluamos como persona**.
+
+*Prudencia o Phronesis*
+Las disposiciones que constituyen las virtudes pueden llevarnos a cometer actos que no son virtuosos. Disposición a no tener miedo o a decir la verdad siempre puede llevarnos a hacer cosas que no deberíamos. <mark style="background: #ABF7F7A6;">La prudencia es la capacidad de conocer cuándo y cómo debemos actuar en concordancia con la virtud</mark>. 
+
+Aristóteles: Encontrar el **término medio** con respeto a dos vicios = virtud. Valor: T.M entre cobardía y temeridad, Honestidad: T.M entre mentira y falta de tacto.
+
+*Eudaimonía*
+- Se traduce como felicidad o florecimiento. Es un concepto normativo, algo así como la felicidad "real" o el tipo de felicidad que merece la pena buscar.
+- Aristóteles: La virtud es necesaria pero no suficiente, se necesitan bienes externos.
+- Platón y estoicos: La virtud es necesaria y suficiente.
+
+¿Hay virtudes transversales a toda cultura? ¿Difieren las virtudes según la sociedad o la persona?
+
+### Sesgos
+Falacia por adición: IA + ÉTICA != IA ÉTICA.
+
+<mark style="background: #ABF7F7A6;">IA sociotécnica</mark>: Considera los aspectos técnicos del desarrollo de esta tecnología y además las complejas influencias sociales necesarias para diseñar, desarrollar, implementar y usar IA.
+
+Sesgos en IA - Errores  - Sistemáticos  - Tendencia injustificada -
+Los errores sistemáticos generan **desigualdad de oportunidades en incremento de vulnerabilidades** en la sociedad. Ocurre en su mayoría hacia gente que sufre de discriminación histórica.
+
+*Orígenes*
+- Cognitivo: Tendencia del cerebro a <mark style="background: #BBFABBA6;">simplificar el proceso de la información a través de un filtro de experiencias y preferencias personales</mark>. 
+- Social: Preocupaciones normativas relacionadas con la <mark style="background: #D2B3FFA6;">forma en que el estado del mundo puede afectar al desarrollo de modelos y conjuntos de datos</mark>.
+- Técnico: Estadísticos y de datos. Se aplican a los <mark style="background: #ADCCFFA6;">errores de procedimiento del modelo, y rendimiento, así como calidad de los datos</mark>. 
+
+### Ética profesional
+
+Todas las profesiones ejercen un **poder social** por su especialización y su capacidad única de servicio. Organización interna en colegios:
+- Denunciar a aquellos que pretenden hacer su trabajo sin estar *especializados o sin tener pruebas de estarlo*.
+- *Apoyarse* entre colegas en momentos de crisis.
+- Mantener la imagen
+
+Autonomía y libertad otorgan importancia a la **integridad profesional**. Consentimiento informado -> Respeta la autonomía del cliente. Paternalismo -> Viola este principio, el profesional tiene el derecho a determinar cuál es la acción correcta.
+
+**Lealtad**: Manifestación del respeto por la autonomía, compromiso con personas, sirviendo a sus intereses de manera desinteresada.
+**Competencia**: Define el campo de la profesión y sus deberes como; Aspirar a realizar el trabajo al más alto nivel, mantener sus habilidades y conocimientos al día, evitar infracciones epistémicas.
+
+#### Ingeniería
+Ideal de servicio:
+1. Tecnología como medio y fin
+2. Modernización de las estructuras económicas y sociales
+3. Buscar que la sociedad haga suyos los beneficios del uso de la tecnología, mejorar la calidad de vida.
+
+### Chat bots
+Redes sociales: Potenciación de capacidad de conexión, Substitución/complemento de relaciones online.
+
+El problema de la soledad, puede ser resuelto por un bot?
+**Terapeutas artificiales**: Orientados a tareas; tratar problemas específicos de salud mental, copia de relación terapeuta-paciente.
+**Acompañantes artificiales**: Basados en aprendizaje automático, encarnan un vínculo personal con el usuario (amigo, hermano o hasta pareja).
+
+- Las capacidades emocionales tienen componentes cognitivos y también están compuestas por sentimientos conscientes. La IA no tiene consciencia y si la tuviera, esta no sería una corporal, una **consciencia vivida**. Si la emocionalidad es necesaria para la transparencia y reciprocidad, relación humano-IA no puede constituir una amistad real. 
+
+<mark style="background: #FF5582A6;">Riesgo de negligencia moral</mark>
+Falsa auto-atribución de obligaciones especiales. Priorizar relaciones con chat bots en vez de potenciales relaciones humanas.
+
+<mark style="background: #FF5582A6;">Descuidar el bienestar</mark>
+Amistad = Componente del bienestar. Sustituir relaciones humanas por chat bots sería una forma de promover la salud que se da a expensas del bienestar
+
+
 
 ---
 

@@ -165,7 +165,7 @@ Autores:
 - Si la conocemos: Bernard Sesboué, Joseph Ratzinger, Ireneo de Lyon.
 
 <mark style="background: #FF5582A6;">Bultmann</mark>
-Cristiano que rechaza el evangelio.
+Protestante que rechaza el evangelio.
 Los evangelios canónicos son narraciones mitológicas. Evangelios son piezas literarias-teológicas redactadas por escritores muy preparados en la expresión escrita. Se basan en mitos premodernos para hacer relatos mitológicos:
 - Concepción virginal
 - Resurrección
@@ -218,4 +218,11 @@ Refutaciones
 2. Fenomenólogos: El hombre es una existencia arrojada al mundo sin un plan previo, dicha existencia se autoconstruye en base a sus propias elecciones. (Jean-Paul Sartre)
 
 **Resumen**: Dios padre tiene un plan que consiste en salvar al hombre, lo que implica llevarlo hacia él. Esto lo logra mediante la encarnación del Verbo, el Verbo se hace hombre para que el hombre pueda acceder a Dios y sus bienes eternos. 
+
+# Apuntes I3
+Teología y filosofía: dogma cristológico.
+
+Dogma: Definición de fé
+Contenido:  (Antiguo + Nuevo testamento)
+Lo promulga: Magisterio
 
