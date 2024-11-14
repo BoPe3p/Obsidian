@@ -226,3 +226,17 @@ Dogma: Definición de fé
 Contenido:  (Antiguo + Nuevo testamento)
 Lo promulga: Magisterio
 
+Fórmula: J.N = V + H }ac
+V = 1 (Arrio y Nicea) Juan 1, 1-13
++' = 3 La unión entre V y H, no es yuxtaposición. (Nestorio/Efeso) Filipenses 2
+H = 2 (Apolinar y Constantinopla I) Juan 1, 14
+} = 6
+a = 4 (Eutiques, Calcedonia, Monoenergismo, Monoteismo, Constantinopla III)
+c = 5 ()
+
+Cual es la diferencia entre el mas en nestorio y Efeso
+Nestorio: V y H suman y forman un tercer conjunto, es el resultado de la suma de dos partes.
+Efeso: + es la unión de V con H que forma un tercer conjunto indisoluble, nueva unión, no el resultado de la suma de dos.
+H en Constantino I: Humanidad completa, H en x: Humanidad incompleta.
+V en Arrio: criatura, V en Nicea: Dios
+

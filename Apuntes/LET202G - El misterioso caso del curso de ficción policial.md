@@ -119,5 +119,32 @@ Roles:
 - Criminal: Ambiguo (antes era una desviación, ahora lo general es la corrupción, tienen motivos para cometer crímenes, todos hacen cosas malas)
 
 ---
-# Unidad 3: 
+# Unidad 3: Postmodernidad y género negro
 
+Efectos de la WWII fueron la producción en masa y un declive en la calidad, hard-boiled deja de ser interesante. Se transforma en lo *hitsch* (autoparodia)- Surge la novela de agentes secretos (007). Existencialismo: El universo no tiene sentido, no hay una verdad. 
+
+Postmodernidad: Se acaban las verdades únicas, no hay psicoanálisis, Nietzsche baja y dice que Dios está muerto. Sensación de subjetividad instalada en el pensamiento contemporáneo. A diferencia del modernismo, no tiene centro.
+
+**Características**
+1. Hibridación genérica: Intertextualidad como "revisitación" irónica y lúdica de la tradición y el pasado literarios.
+2. Disolución de ficción y realidad: Incrustación de elementos autobiográficos a la autoficción.
+3. Negar el valor del realismo.
+4. Fragmentalidad y marginalidad. Cada capítulo es un fragmento.
+
+<mark style="background: #FFB86CA6;">Detective</mark>: Es pura emoción, queda emocionalmente atrapado en la red de sus propios esfuerzos. Debate entre los sentimientos y la necesidad de la racionalidad. Se transgrede al género, ahora cualquiera es el detective. 
+
+Se caen las bases que teníamos, el final anticipa la solución, se cumple parcialmente la solución, la niega, la anula o la parodia. Parece un suspenso que promete satisfacción y termina siendo lo contrario, la naturaleza del misterio afquiere connotaciones perturbadoras o inusuales. El resto de elementos quedan inalterados. 
+
+Innovación
+Solución temprana que desilusiona al lector, final que lo confunde. O solución no implica el castigo del culpable o el caso se resuelve por azar.
+
+Lectura La caza del carnero salvaje
+
+**Capítulo 1:** 25 de noviembre de 1970
+El picnic de los miércoles por la tarde.
+El protagonista se da cuenta que una joven a la que conoció en sus años de universidad se muere. Se acostaba con ella y vivían despreocupadamente. Se conocieron en el otoño de 1969, frecuentaba un café en el que tocaban rock pesado. Se muere a los 26 años en julio de 1978. 
+
+**Capítulo 2:** Julio de 1978
+Sobre como avanzar dieciséis pasos.
+Lo que se demora en llegar a la puerta de su casa (16pasos) los da curao.
+Lo estaba esperando en su depa su ex esposa recién divorciada, le dice que lo ama pero que es por eso que lo deja. 
