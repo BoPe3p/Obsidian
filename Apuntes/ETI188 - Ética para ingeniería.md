@@ -136,7 +136,6 @@ Límites: Simplificación del problema (las trata como problemas técnicos), ign
 ->Diseño sociotécnico de IA -> Responsabilidad distribuída -> Control humano.
 
 Responsabilidad: Depende del humano que diseña, usa, implementa y retroalimenta a la IA. 
-
 ### Ética de la virtud
 
 Una virtud es un rasgo del carácter, algo que **define un modo de ser**. Son cualidades **positivas** a las que nos referimos al decidir si vamos a buscar la compañía de alguien o la vamos a evitar, cuando la **evaluamos como persona**.
@@ -152,7 +151,6 @@ Aristóteles: Encontrar el **término medio** con respeto a dos vicios = virtud.
 - Platón y estoicos: La virtud es necesaria y suficiente.
 
 ¿Hay virtudes transversales a toda cultura? ¿Difieren las virtudes según la sociedad o la persona?
-
 ### Sesgos
 Falacia por adición: IA + ÉTICA != IA ÉTICA.
 
