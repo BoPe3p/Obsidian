@@ -2,7 +2,6 @@
 tags:
   - PUC
   - APUNTES
-url:
 ---
 Tags: [[PUC]] , [[Apuntes]]
 # Unidad 1 Whodunit
@@ -11,7 +10,7 @@ Tags: [[PUC]] , [[Apuntes]]
 Noir genre. Se necesita un crimen, envuelve un misterio. 
 
 Si la multimedia se centra en:
-Criminal ---%3E Criminal novel
+Criminal ---->  Criminal novel
 Un crimen ----> Mystery novel
 Una víctima ----> Thriller/Suspense novel
 Detective ----> Detective novel
