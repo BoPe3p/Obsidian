@@ -13,3 +13,5 @@ La idea es ir añadiendo más apuntes y también subir archivos .tex o .pdf para
 - LET202G - Marcelo Gonzalez
 - EYP1113 - Ricardo Aravena
 - IIC2233 - Progra Avanzada
+- ICS113H - Opti honors (solo exámen)
+- MUC958 - La música en nuestro tiempo
