@@ -1,4 +1,4 @@
-# Obsidian
+# Apuntes
 
 Rafael Ignacio Lorca Muñoz - rafael.lorca@uc.cl
 
