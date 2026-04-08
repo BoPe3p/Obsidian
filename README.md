@@ -13,6 +13,7 @@ La idea es ir añadiendo más apuntes y también subir archivos .tex o .pdf para
 - ICS113H - Opti honors (solo examen)
 - EYP2114 - Inferencia estadística (Formulario+Ejercicios+Pautas+Ayudantías) - Manuel Galea
 - IIC1253 - Matemáticas Discretas - Pablo Barceló
+- MAT2605 - Cálculo científico (Entregas de tareas) - Manuel Sánchez
 ## INGENIERÍA
 
 - MAT1203 - Lineal - Daniel Gajardo (WIP)
